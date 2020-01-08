@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21213" started-at="2019-12-31T08:22:03Z" finished-at="2019-12-31T08:22:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21213" started-at="2019-12-31T08:22:03Z" finished-at="2019-12-31T08:22:25Z">
+      <class name="com.pz.kaoshi.kaoshi">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.pz.kaoshi.kaoshi@22a71081]" name="BeforeMethod" is-config="true" duration-ms="8058" started-at="2019-12-31T16:22:03Z" finished-at="2019-12-31T16:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.pz.kaoshi.kaoshi@22a71081]" name="login" duration-ms="13139" started-at="2019-12-31T16:22:12Z" finished-at="2019-12-31T16:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.pz.kaoshi.kaoshi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
